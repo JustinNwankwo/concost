@@ -1,11 +1,12 @@
 body {
-  background: #f5d9d5;
   font-family: "Nunito", sans-serif;
-}
-h1 {
-  padding-bottom: 200px;
 }
 
 .col-4 {
   border: 1px solid black;
+}
+#logo {
+  height: 40px;
+  width: 220px;
+  margin-bottom: 20px;
 }
