@@ -20,11 +20,10 @@ h1 {
   font-weight: 400;
 }
 body {
-  background-image: url(/assets/officebuilding.jpg);
+  background-image: url("../assets/officebuilding.jpg");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
-  object-fit: cover;
 }
 p {
   color: black;
