@@ -1,5 +1,11 @@
 body {
   font-family: "Nunito", sans-serif;
+  line-height: 1.8;
+}
+h1 {
+  font-weight: 500;
+  color: #0047ab;
+  padding-top: 30px;
 }
 .concost {
   color: #0047ab;
@@ -12,4 +18,13 @@ body {
 .inc {
   color: grey;
   font-weight: 400;
+}
+body {
+  background-image: url(/assets/officebuilding.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+p {
+  color: #696969;
 }
