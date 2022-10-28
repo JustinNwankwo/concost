@@ -19,11 +19,12 @@ h1 {
   color: grey;
   font-weight: 400;
 }
-.hero {
+body {
   background-image: url(/assets/officebuilding.jpg);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
+  object-fit: cover;
 }
 p {
   color: black;
