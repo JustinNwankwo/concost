@@ -19,7 +19,7 @@ h1 {
   color: grey;
   font-weight: 400;
 }
-body {
+.hero {
   background-image: url(/assets/officebuilding.jpg);
   background-position: center;
   background-size: cover;
