@@ -1,12 +1,15 @@
 body {
   font-family: "Nunito", sans-serif;
 }
-
-.col-4 {
-  border: 1px solid black;
+.concost {
+  color: #0047ab;
+  font-weight: 800;
 }
-#logo {
-  height: 40px;
-  width: 220px;
-  margin-bottom: 20px;
+.associates {
+  color: #696969;
+  font-weight: 800;
+}
+.inc {
+  color: grey;
+  font-weight: 400;
 }
