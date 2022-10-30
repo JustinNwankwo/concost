@@ -4,8 +4,8 @@ body {
 h1 {
   font-weight: 500;
   color: #0047ab;
-  padding-top: 30px;
-  padding-bottom: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 .concost {
   color: #0047ab;

@@ -1,12 +1,6 @@
 body {
   font-family: "Nunito", sans-serif;
 }
-h2 {
-  font-weight: 400;
-  color: #0047ab;
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
 .concost {
   color: #0047ab;
   font-weight: 800;
@@ -28,10 +22,13 @@ body {
 }
 p {
   color: black;
-  line-height: 1.28;
+  line-height: 1.2;
   font-weight: 400;
 }
 .row {
   justify-content: center;
   text-align: center;
+}
+.start {
+  margin-top: 10px;
 }
