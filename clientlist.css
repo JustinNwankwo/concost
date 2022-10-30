@@ -1,9 +1,9 @@
 body {
   font-family: "Nunito", sans-serif;
 }
-h1 {
-  font-weight: 500;
-  color: #0047ab;
+h3 {
+  font-weight: 400;
+  color: black;
   padding-top: 30px;
   padding-bottom: 30px;
 }
@@ -30,4 +30,8 @@ p {
   color: black;
   line-height: 1.7;
   font-weight: 500;
+}
+.row {
+  justify-content: center;
+  text-align: center;
 }
