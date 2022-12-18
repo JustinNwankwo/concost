@@ -1,0 +1,33 @@
+body {
+  font-family: "Nunito", sans-serif;
+}
+h1 {
+  font-weight: 500;
+  color: #0047ab;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.concost {
+  color: #0047ab;
+  font-weight: 800;
+}
+.associates {
+  color: #696969;
+  font-weight: 800;
+}
+.inc {
+  color: #696969;
+  font-weight: 400;
+}
+body {
+  background-image: url(/assets/citybuilding3.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  object-fit: cover;
+}
+p {
+  color: black;
+  line-height: 1.7;
+  font-weight: 500;
+}
