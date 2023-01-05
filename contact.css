@@ -3,19 +3,20 @@ body {
 }
 
 .concost {
-  color: #0047ab;
-  font-weight: 800;
+  color: #800020;
+  font-weight: 600;
 }
 .associates {
-  color: #696969;
-  font-weight: 800;
+  color: #800020;
+  font-weight: 600;
 }
 .inc {
-  color: #696969;
-  font-weight: 400;
+  color: #800020;
+
+  font-weight: 600;
 }
 body {
-  background-image: url(/assets/citybuilding3.jpg);
+  background-image: url(/assets/white.webp);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -28,6 +29,6 @@ p {
 }
 
 .bold {
-  color: #484848;
-  font-weight: 800;
+  color: #800020;
+  font-weight: 600;
 }

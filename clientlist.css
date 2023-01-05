@@ -2,25 +2,26 @@ body {
   font-family: "Nunito", sans-serif;
 }
 h2 {
-  font-weight: 400;
-  color: #0047ab;
+  font-weight: 300;
+  color: #800020;
   margin-top: 10px;
   margin-bottom: 10px;
 }
 .concost {
-  color: #0047ab;
-  font-weight: 800;
+  color: #800020;
+  font-weight: 600;
 }
 .associates {
-  color: #696969;
-  font-weight: 800;
+  color: #800020;
+  font-weight: 600;
 }
 .inc {
-  color: #696969;
-  font-weight: 400;
+  color: #800020;
+
+  font-weight: 600;
 }
 body {
-  background-image: url(/assets/citybuilding3.jpg);
+  background-image: url(/assets/white.webp);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -34,4 +35,15 @@ p {
 .row {
   justify-content: center;
   text-align: center;
+}
+a {
+  color: #800020;
+  text-decoration: none;
+}
+a:hover {
+  color: #800020;
+  text-decoration: none;
+}
+.nav-link {
+  font-weight: 500;
 }
