@@ -29,7 +29,7 @@ body {
 }
 p {
   color: black;
-  line-height: 1.2;
+  line-height: 1.1;
   font-weight: 400;
 }
 .row {
@@ -42,7 +42,6 @@ p {
 
 a {
   color: #800020;
-  text-decoration: none;
 }
 a:hover {
   color: #800020;
